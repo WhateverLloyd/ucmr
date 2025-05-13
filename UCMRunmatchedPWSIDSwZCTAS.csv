@@ -1,0 +1,19 @@
+PWSID,PWS_NAME,SOURCE,POP_SERVED,RESIDENTIAL,DATA_SOURCE,ZCTA
+AZ0413087,CHINO VALLEY HIGH SCHOOL,GW,960,N,https://enviro.epa.gov/envirofacts/sdwis/search,86323
+AZ0413187,CHINO VALLEY SCHOOL - DEL RIO,GW,800,N,https://enviro.epa.gov/envirofacts/sdwis/search,86323
+CA1300554,MEADOWS UNION ELEMENTARY SCHOOL,SW,550,N,https://sdwis.waterboards.ca.gov/PDWW/,92243
+CA1900679,RANCHO LOS AMIGOS HOSPITAL,GW,3200,N,https://sdwis.waterboards.ca.gov/PDWW/,90242
+CA2300847,WHALE GULCH ELEMENTARY SCHOOL,SW,60,N,https://sdwis.waterboards.ca.gov/PDWW/,95589
+MS0250034,UNIVERSITY OF MS MEDICAL CNTR,GW,7800,N,https://apps.msdh.ms.gov/DWW/,39216
+NJ1106319,PENNINGTON SHOP-RITE,GW,3663,N,https://www9.state.nj.us/DEP_WaterWatch_public/JSP/WSDetail.jsp?tinwsys=3259,8534
+NV0001137,COSMOPOLITAN HOTEL,SWP,5534,N,https://ndwis.ndep.nv.gov/DWW/,89109
+NV0001180,PLANET HOLLYWOOD HOTEL AND CASINO,SWP,6509,N,https://ndwis.ndep.nv.gov/DWW/,89109
+OK3002503,GARVIN CO RWD 4,SWP,1340,Y,https://enviro.epa.gov/envirofacts/sdwis/search,73075
+OR4193997,OREGON INSTITUTE OF TECHNOLOGY,GW,3250,N,https://enviro.epa.gov/envirofacts/sdwis/search,97601
+PA2450542,PARADISE STREAM RESORT WELL 2,GW,774,N,https://enviro.epa.gov/envirofacts/sdwis/search,18326
+PA7360345,MANHEIM AUTO AUCTION,GW,1426,N,https://enviro.epa.gov/envirofacts/sdwis/search,17545
+TN0001068,Y-12 NNSA PRODUCTION OFFICE,SWP,5000,N,https://enviro.epa.gov/envirofacts/sdwis/search,37830
+TX1010837,ALDINE ISD GRACE RAYMOND ELEMENTARY SCHO,GW,4000,N,https://enviro.epa.gov/envirofacts/sdwis/search,77039
+VT0005529,BERLIN HEALTH REHABILITATION CTR,GW,378,N,https://enviro.epa.gov/envirofacts/sdwis/search,5641
+WV3301722,SHORTLINE PSD,SWP,2752,Y,https://enviro.epa.gov/envirofacts/sdwis/search,26448
+NH0446020,UNITED NATURAL FOODS,GW,330,N,https://enviro.epa.gov/envirofacts/sdwis/search,3443
